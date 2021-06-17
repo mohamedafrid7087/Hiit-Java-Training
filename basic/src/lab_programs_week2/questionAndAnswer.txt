@@ -1,0 +1,44 @@
+1. Java’s defining characteristics come from?
+	a. It’s a newly created language
+
+-----------------------------------------------------------------------------------
+2. Java derives it’s syntax from …….. and many of Java’s object-oriented features were influenced by…….?
+	Java derives it’s syntax from C and C++. and many of Java’s object-oriented features were influenced by C++
+
+-----------------------------------------------------------------------------------
+3. Java?
+	b. Platform-independent
+
+-----------------------------------------------------------------------------------
+8. Which type of programming language is Java?
+	b. Object-oriented programming
+	
+-----------------------------------------------------------------------------------
+10. What is the return type of program’s main() method?
+	void
+
+-----------------------------------------------------------------------------------
+11. What is the argument type of program’s main() method?
+	String array 
+
+-----------------------------------------------------------------------------------
+12. Which of the following signatures are valid for the main() method entry point of an application?
+ b. public static void main(String arg[])
+ 
+-----------------------------------------------------------------------------------
+13. Name two keywords in Java that are reserved but not used?
+	goto
+	const
+	
+-----------------------------------------------------------------------------------
+14. Choose the valid keywords from those listed below?
+	b. byte
+	c. import
+	
+-----------------------------------------------------------------------------------
+15. What are the operators used in Java?
+	+ - = * / % 
+	++ -- 
+	<= >= == < > !=
+	&	 |		^ 		&& 		||		
+	?:	= += -= /= %= 

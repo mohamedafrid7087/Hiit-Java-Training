@@ -42,6 +42,7 @@
 	<= >= == < > !=
 	&	 |		^ 		&& 		||		
 	?:	= += -= /= %= 
+--------------------------------------------------------------------------------------
 9. what a java program to print the statement "this is my first java program "?
 
 class Main{
